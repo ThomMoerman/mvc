@@ -21,11 +21,7 @@ This repository contains the source code for my personal exercise. It is built u
 - On the article index page, you can see a list of articles with their titles and publish dates.
 - Click on an article title to view its details, including the description and formatted publish date.
 - On the article details page, you can also navigate to the previous and next articles.
-
-## License
-
-This project is licensed under the MIT License.
-
+- 
 ## Acknowledgements
 
 - This project is based on the MVC architecture and was developed as an exercise.
